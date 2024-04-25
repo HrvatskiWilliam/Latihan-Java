@@ -90,6 +90,6 @@ public class LatihanSoalArray {
         for (i=0; i<data; i++){
             k = i + 1;
             System.out.println(" "+k+"   "+kode[i]+"      "+nb[i]+"   "+hb[i]+"   "+jumlah[i]+"    "+th[i]);
-        }      
-    }
+        }
+    }
 }
